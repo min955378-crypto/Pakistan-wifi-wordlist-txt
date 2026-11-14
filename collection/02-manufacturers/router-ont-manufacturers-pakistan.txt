@@ -1,0 +1,21 @@
+ROUTER / ONT / CPE MANUFACTURERS DISTRIBUTED IN PAKISTAN - RESEARCH INDEX
+Original research index compiled 2026-11-14. Inventory for authorized lab asset
+registration only. No default passwords or credentials are listed.
+
+FORMAT: Manufacturer | Typical device class seen with Pakistani ISPs
+
+Huawei | GPON ONT / DSL gateway / Wi-Fi router
+ZTE | GPON ONT (FTTx, e.g. F6xx series) / Wi-Fi router
+Nokia | GPON ONT (Alcatel-Lucent lineage)
+FiberHome | GPON ONT
+Syrotech | GPON ONT / ONU
+Raisecom | GPON / carrier access
+C-Data | GPON OLT/ONU
+VSOL | GPON ONT/ONU
+TP-Link | Retail Wi-Fi router / mesh
+Tenda | Retail Wi-Fi router / mesh
+D-Link | Retail Wi-Fi router
+Mercusys | Retail Wi-Fi router (TP-Link brand)
+Netis | Retail Wi-Fi router
+TOTOLINK | Retail Wi-Fi router
+MikroTik | RouterOS routers (pro/enthusiast)

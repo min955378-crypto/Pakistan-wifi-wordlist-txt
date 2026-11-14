@@ -1,0 +1,37 @@
+VERIFIED SOURCE INDEX - METADATA ONLY (NO PASSWORD CONTENTS COPIED)
+Verified via GitHub API / web inspection, 2026-11-14. Sizes are as reported by
+the GitHub contents API at verification time. "EXCLUDED" means the file was
+confirmed to exist but was NOT downloaded, copied, or redistributed because it
+is a password-cracking wordlist aimed at real Pakistani Wi-Fi users.
+
+1. wordlist.txt | 2,083 bytes | shehryar49/pakistani-wifi-wordlist
+   URL: https://github.com/shehryar49/pakistani-wifi-wordlist/blob/main/wordlist.txt
+   Described by source as: "A wordlist of commonly used wifi passwords in Pakistan"
+   Status: EXISTS - EXCLUDED (credential-cracking list, not an ISP/manufacturer
+   educational dataset; not associated with any ISP below)
+
+2. wordlist.txt | 214 bytes | Isbah-23/pakistani-wifi-wordlist (fork of #1)
+   URL: https://github.com/Isbah-23/pakistani-wifi-wordlist/blob/main/wordlist.txt
+   Status: EXISTS - DUPLICATE/FORK of #1 - EXCLUDED (same reason)
+
+3. pakistani_wordlist.txt | 134 bytes | mzeeshanzafar28/Pakistani-Wordlists
+   URL: https://github.com/mzeeshanzafar28/Pakistani-Wordlists/blob/main/pakistani_wordlist.txt
+   Described by source as: "Collection of commonly used Pakistani Passwords,
+   best of WPA Cracking" | Status: EXISTS - EXCLUDED (same reason)
+
+4. probable-v2-wpa-top62.txt | 573 bytes | danielmiessler/SecLists (general, not Pakistan-specific)
+   URL: https://github.com/danielmiessler/SecLists/blob/master/Passwords/WiFi-WPA/probable-v2-wpa-top62.txt
+   Status: EXISTS - general educational security-testing collection - contents
+   NOT copied here; consult the upstream project and its license directly.
+
+5. probable-v2-wpa-top4800.txt | danielmiessler/SecLists, same folder as #4
+   Status: EXISTS - same handling as #4.
+
+NEGATIVE RESULTS (GitHub repository search, "<term> wordlist", 2026-11-14):
+PTCL: 0 | Flash Fiber: 0 | StormFiber: 0 | Nayatel: 0 | Transworld Home: 0 |
+Optix Pakistan: 0 | Fiberlink: 0 | Cybernet Pakistan: 0 | Wateen: 0 |
+Huawei ONT Pakistan: 0 | ZTE ONT Pakistan: 0 | Tenda Pakistan router: 0 |
+TP-Link Pakistan: 0 | Syrotech ONT: 0 | FiberHome ONT Pakistan: 0
+Conclusion: no ISP- or manufacturer-specific educational TXT dataset for any
+named Pakistani ISP/brand was found in the sources searched. Do not let any
+source claim otherwise without a verifiable URL.

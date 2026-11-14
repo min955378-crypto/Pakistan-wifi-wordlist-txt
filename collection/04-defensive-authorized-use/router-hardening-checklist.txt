@@ -1,0 +1,18 @@
+HOME / SMALL-OFFICE ROUTER HARDENING CHECKLIST (PAKISTAN ISP CPE)
+For use only on routers you own or are explicitly authorized to administer.
+
+1. Change the router admin password; store it in a password manager.
+2. Set Wi-Fi security to WPA3, or WPA2-AES if older devices require it. Never WEP/WPA-TKIP.
+3. Choose a long, unique Wi-Fi passphrase (16+ characters) not based on your
+   name, phone number, CNIC, address, ISP account number, or device serial.
+4. Change the default SSID so it does not reveal your name, flat/house number,
+   router model, or ISP account details.
+5. Disable WPS (especially PIN mode).
+6. Update firmware from the manufacturer or ISP portal; note model and version.
+7. Disable remote/WAN administration, Telnet, and unused services (UPnP if unneeded).
+8. Enable automatic DNS security where offered; verify ISP DNS settings are expected.
+9. Create a separate guest network for visitors and IoT devices.
+10. Review connected devices monthly; remove unknown clients.
+11. Back up the router configuration after changes; record date and firmware.
+12. For ISP-supplied ONTs (PTCL, StormFiber, Nayatel, etc.), ask the ISP before
+    replacing the ONT - GPON registration is usually tied to the device serial.
