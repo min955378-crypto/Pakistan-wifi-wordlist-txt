@@ -1,0 +1,17 @@
+Pakistani_WiFi_Wordlist.txt - SOURCE AND PROVENANCE (kept separate from the wordlist file)
+Generated: 2026-11-14 (UTC)
+Generator: synthetic generation in this repository; no external dataset was copied.
+Content class: 100% synthetic, clearly-labelled lab fixture identifiers
+  (prefix SYNTHETIC- / SYNTHETIC-LAB-TEST-ENTRY-). Every line was invented for
+  authorized lab/educational file-format testing. No real users' credentials,
+  no leaked passwords, no default router passwords, and no entries copied from
+  Pakistani WPA-cracking dictionaries (those were verified by metadata only in
+  collection/03-verification/verified-source-index.txt and excluded).
+ISP/manufacturer tokens appear only as organizational labels for lab fixtures,
+  not as passwords associated with those providers or devices.
+Format: UTF-8, LF line endings, one entry per line, duplicates removed.
+Lines: 520
+SHA-256: 3a9bf6be32fa10e872c3baadbf12ddbf6cbcc60247b75ad802f6e368203d3745
+Intended use: authorized lab file-handling, parser, deduplication and
+  password-policy/strength-testing exercises on systems you own or are
+  explicitly authorized to test.
