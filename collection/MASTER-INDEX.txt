@@ -1,0 +1,16 @@
+PAKISTANI WI-FI RESEARCH TXT COLLECTION - MASTER INDEX (2026-11-14)
+This collection contains original, defensive research indexes and templates.
+It intentionally contains NO Wi-Fi passwords, default credentials, leaked
+credentials, or WPA-cracking wordlists. Candidates found online that matched
+that description were verified at metadata level and excluded (see
+03-verification/verified-source-index.txt for filenames, sizes, and URLs).
+
+CONTENTS
+01-isps/pakistani-isps-and-fiber-providers.txt - 14 providers inventoried
+02-manufacturers/router-ont-manufacturers-pakistan.txt - 15 manufacturers
+03-verification/verified-source-index.txt - every candidate found, with status
+04-defensive-authorized-use/router-hardening-checklist.txt
+04-defensive-authorized-use/authorized-lab-scope-template.txt
+
+Full methodology, counts, and search log: REPORT.md in the repository root.
+Use only on networks you own or are explicitly authorized to test.

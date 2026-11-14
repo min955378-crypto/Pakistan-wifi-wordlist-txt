@@ -1,0 +1,15 @@
+AUTHORIZED WI-FI SECURITY ASSESSMENT - SCOPE TEMPLATE
+Complete and sign before any testing. Testing without authorization is unlawful.
+
+Asset owner (name/organization):
+Contact:
+Assets in scope (SSID / BSSID / router model / serial / ISP / site address):
+Assets explicitly out of scope:
+Test window (dates, times, timezone):
+Permitted methods (e.g. configuration review, firmware review, own-passphrase
+  strength audit using a password-strength estimator on your own passphrase):
+Prohibited methods (any access to third-party networks or credentials):
+Data handling (what will be logged, retention period, deletion date):
+Emergency stop contact:
+Owner signature / date:
+Tester signature / date:

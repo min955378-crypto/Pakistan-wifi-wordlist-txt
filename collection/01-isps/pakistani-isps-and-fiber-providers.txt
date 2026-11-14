@@ -1,0 +1,20 @@
+PAKISTANI ISPs AND FIBER/BROADBAND PROVIDERS - RESEARCH INDEX
+Original research index compiled 2026-11-14. Factual provider inventory only.
+No passwords, credentials, or cracking material are included.
+
+FORMAT: Provider | Service type | Notes for authorized lab inventory
+
+PTCL | DSL / GPON FTTH | National incumbent; Flash Fiber is its FTTH brand
+PTCL Flash Fiber (Flash Fiber) | GPON FTTH | PTCL fiber brand, major cities
+StormFiber | FTTH (Cybernet) | Karachi, Lahore, Islamabad and other cities
+Nayatel | FTTH / triple play | Islamabad, Rawalpindi, Faisalabad, Peshawar
+Transworld Home | FTTH (Transworld Associates) | Karachi, Lahore, Islamabad
+Optix | FTTH | Karachi, Lahore, Islamabad
+Fiberlink | FTTH / broadband | Lahore, Karachi and other cities
+Cybernet | Enterprise / FTTH parent of StormFiber | Nationwide enterprise
+Wateen | Enterprise / broadband (Wimax history) | Enterprise-focused
+SCO | Telecom, AJK and Gilgit-Baltistan | Special Communications Organization
+Zong | 4G mobile broadband / devices | China Mobile Pakistan
+Jazz | 4G mobile broadband / devices | VEON Pakistan
+Telenor Pakistan | 4G mobile broadband / devices | Now under PTCL Group acquisition process - verify current status
+Ufone | 4G mobile broadband / devices | PTCL Group
